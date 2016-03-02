@@ -235,7 +235,7 @@ void MainWindow::Aboutwidget_init(){
     Aboutfloating->setWidget(AbtfloatingContents);
     Aboutfloating->setWindowTitle(QApplication::translate("MainWindow", "About", 0));
     Abtlabel->setText(QApplication::translate("MainWindow", "Check out the View->Solutions and the Edit menu\n"
-                                                            "Used Qt5.5 C++ and Yes, maprapraning ka sa C++", 0));
+                                                            "Used Qt5.5 C++ and Yes, nakakabaliw yung C++", 0));
     Abtlabel2->setText(QApplication::translate("MainWindow", "ME - https://github.com/enriquezmark36/cenode", 0));
 }
 
